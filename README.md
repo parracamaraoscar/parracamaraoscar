@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Oscar
+I'm a PhD student in the **Civil and Environmental Engineering** Program at the University of California, Irvine.  
+My research is focused on enhanced geothermal systems.
 
-<!--
-**parracamaraoscar/parracamaraoscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Research Approach
+- Enhanced Geothermal Systems
+- Reactive Flow and Gradients
+- Micromodel Studies
+## 🎓 Academic Background
+- Ph.D. in Civil and Environmental Engineering (in progress)
+- M.S. in Natural Resources
+- B.S. in Environmental Science Engineering
 
-Here are some ideas to get you started:
+🌎 Check my [portfolio](https://parracamaraoscar.github.io/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp; _Feel free to reach out_
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/4HcRvrv6GafMPVeEbW/giphy.gif" />
